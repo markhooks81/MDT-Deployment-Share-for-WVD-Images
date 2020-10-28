@@ -1,0 +1,1 @@
+# MDT-Deployment-Share-for-WVD-Images
